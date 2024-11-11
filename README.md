@@ -10,13 +10,13 @@ Este proyecto es una aplicación web que utiliza Node.js y React, con todas sus 
 1. Clona el repositorio en tu equipo local:
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/EzequielMisterLinux/crud-nodejs-readline-fs
    ```
 
 2. Navega al directorio del proyecto:
 
    ```bash
-   cd <NOMBRE_DEL_PROYECTO>
+   cd crud-nodejs-readline-fs
    ```
 
 3. Instala las dependencias del proyecto:
