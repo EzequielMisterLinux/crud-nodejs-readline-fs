@@ -1,33 +1,33 @@
 
 ---
 
-# Proyecto de Desarrollo Web
+# JSON Document Manipulation Project
 
-Este proyecto es una aplicación web que utiliza Node.js y React, con todas sus dependencias gestionadas mediante NPM. Para empezar, sigue los pasos a continuación.
+This project is a web application built with Node.js and React, with all dependencies managed through NPM. To get started, follow the steps below.
 
-## Instalación
+## Installation
 
-1. Clona el repositorio en tu equipo local:
+1. Clone the repository to your local machine:
 
    ```bash
    git clone https://github.com/EzequielMisterLinux/crud-nodejs-readline-fs
    ```
 
-2. Navega al directorio del proyecto:
+2. Navigate to the project directory:
 
    ```bash
    cd crud-nodejs-readline-fs
    ```
 
-3. Instala las dependencias del proyecto:
+3. Install the project dependencies:
 
    ```bash
    npm install
    ```
 
-## Ejecución
+## Running the Application
 
-Para ver una explicación completa del proyecto, puedes seguir el video en este [enlace](https://youtu.be/gE7cXFDwKEs). 
+For a complete explanation of the project, you can watch the video at this [link](https://youtu.be/gE7cXFDwKEs).
 
 # https://youtu.be/gE7cXFDwKEs
 
